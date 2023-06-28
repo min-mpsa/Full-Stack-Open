@@ -21,7 +21,7 @@ const Total = ({partInfo}) => (
 )
 
 const App = () => {
-  const course = 'Half Stack application development'
+  const course = 'Full Stack application development'
   const partInfo = [
     {
       "part": "Fundamentals of React",
